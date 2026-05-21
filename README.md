@@ -1,1 +1,1 @@
-# phase-1-ml-foundations
+Learning decision-aware ML from scratch. Week 1 starting 18 May 2026.
